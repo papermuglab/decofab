@@ -1,0 +1,2 @@
+[29-Jan-2019 03:31:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papermug/public_html/decofab1/send_mail.php:9) in /home/papermug/public_html/decofab1/send_mail.php on line 82
+[29-Jan-2019 03:32:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/papermug/public_html/decofab1/send_mail.php:9) in /home/papermug/public_html/decofab1/send_mail.php on line 82

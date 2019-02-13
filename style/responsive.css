@@ -1,0 +1,168 @@
+/*======responsive=======*/
+    .slider-text-wrapper {
+        font-size: 16px;
+        position: static;
+        padding: 12px 10px;
+        background-color: black;
+        text-transform: uppercase;
+    }
+@media (max-width: 991px) {
+    .carousel-wrap{
+        padding: 0;
+    }
+    .slider-text-wrapper {
+        font-size: 12px;
+        position: static;
+        padding: 12px 5px;
+        text-transform: capitalize;
+    }
+* {
+    box-sizing: border-box;
+}
+a {
+    display: block;
+}
+img {
+    max-width: 100% !important;
+    height: auto !important;
+}
+    #tabsJ ul {
+        padding: 45px 0px 0px 0px
+    }
+  #tabsJ a {
+      padding: 0 0 0 8px
+  }
+  #tabsJ a span{
+      padding: 0 10px 0 2px;
+  }
+  .img_rgt_hm{
+      float: none;
+      display: block;
+      margin: 40px auto 20px;
+  }
+  #tabsJ {
+      margin-top: 0;
+      float: none;
+  }
+  #header {
+      width: 100%;
+      padding: 25px 15px 25px;
+      height: 105px;
+  }
+  #container {
+      width: 100%;
+  }
+  .font-20{
+    font-size: 16px;
+    line-height: normal;
+  }
+  h1{
+    font-size: 22px;
+  }
+  .home_imgs {
+      width: 100%;
+  }
+
+  .producr-gallery-menu tr td{
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+  .producr-gallery-menu tr td br {
+      display: none;
+  }
+  .producr-gallery-menu tr td a {
+    margin: 0 0 7px;
+    font-size: 14px;
+    padding: 7px 10px !important;
+    line-height: normal;
+ }
+    .tbl_content td,
+    .tbl_content th{
+    font-size: 14px;
+    padding: 10px 5px;
+   }
+   .project-header-text {
+       font-size: 15px;
+   }
+  .footer{
+    font-size: 14px;
+    background-color: white;
+    display: inline-block;
+  }
+  ul{
+    padding: 0;
+    margin: 0;
+  }
+  ul li{
+    list-style: none;
+  }
+
+  .f-left{
+      width: 100%;
+      clear: both;
+      display: block;
+    }
+
+    .f-right{
+      width: 100%;
+      clear: both;
+      display: block;
+    }
+}
+  .footer{
+    background-color: white !important;
+  }
+/*======Pramod=======*/
+
+@media (min-width: 320px) and (max-width: 540px){
+  .home_imgs ul li{
+    width: 100%;
+    padding: 0;
+    margin: 0 0 20px;
+  }
+
+   .full-width-table{
+    width: 100% !important;
+    display: inline-block !important;
+    float: left !important;
+   }
+
+   .full-width-table table{
+    width: 100% !important;
+   }
+
+
+   .contactus-wrapper{
+    font-size: 20px;
+   }
+
+   .contactus-table-wrapper{
+    width: 100% !important;
+    display: grid !important;
+   }
+
+   .prod_left,
+   .prod_right{
+    width: 100% !important;
+   }
+   .products{
+    width: 100%;
+   }
+   .tbl_mid img{
+    text-align: center !important;
+    align-items: center !important;
+   }
+
+   .contact-form-wrapper{
+    width: 100% !important;
+   }
+
+
+}
+
+.footer{
+  background-color: #eee;
+  text-align: center;
+}
+
